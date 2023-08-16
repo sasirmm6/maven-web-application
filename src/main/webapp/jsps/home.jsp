@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<title>NMIT Solutions- Home Page</title>
+<link href="images/Company1.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies Pvt Ltd. Ph No: +91-9980923226  Marathahalli,Bengaluru,Karnataka </h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS in Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to NMIT Solutions Pvt Ltd. Ph No: +91-9980923226  Tinfactory,Bengaluru,Karnataka </h1>
+<h1 align="center">Nmit Solutions (Opc) Private Limited (NSPL) is a One Person Company incorporated in India on 28 April 2020 (Three years and three months old). Its registered office is in Bangalore, Karnataka, India.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -31,16 +31,16 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/Company1.jpg" alt="" width="500">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
+		NMIT Solutions, 
+		Tinfactory,
 		Bangalore,
 		+91-9980923226,+91-9900012028
-		devopstrainingblr@gmail.com
+		nmittraining@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:nmittrainingblr@gmail.com">Mail to nmit Technologies</a>
 	</span>
 </div>
 <hr>
